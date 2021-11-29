@@ -34,13 +34,13 @@ color: darkblue;
 
 }
 
-#elise's picture {
+#picture {
 width:100px;
-border-radius: 55%;
+border-radius: 50%;
 
 }
 
-img-circle { /*"elise's picture"*/
+img-circle { /*"picture"*/
 border-radius: 50%;
 }
 
